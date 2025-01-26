@@ -1,78 +1,64 @@
-# 📊 Business Insights 360 
+# Business Insights 360
 
-## 🤔 Problem Statement  
-AtliqQ Hardware faced significant losses in Latin America due to Excel-based analytics. To tackle this challenge, senior executives initiated a data analytics project using data from the previous year to enhance performance and decision-making.  
-
-## 🌟 Live Dashboard  
-[View Dashboard](#) *([AtliQ_Business_Insights_360](https://github.com/rohankakade1096/Business-Insights-360/blob/main/AtliQ_Business_Insights_360.pdf.pdf))*  
+**An interactive data-driven project to provide actionable insights for AtliqQ Hardware.**
 
 ---
 
-## 🌟 Project Highlights  
-
-### 🏠 Home Page  
-A central hub designed for seamless navigation and quick access to critical insights.  
-
-### 💰 Finance View  
-- Comprehensive financial analysis through vital KPIs.  
-- Interactive charts and customizable parameters.  
-
-### 📈 Sales View  
-- Sales insights with scatter charts, performance data, and donut charts.  
-
-### 📢 Marketing View  
-- Marketing performance analysis with waterfall charts, segmentation insights, and detailed tables.  
-
-### 🚚 Supply Chain View  
-- Key supply chain metrics, trends, and in-depth breakdowns.  
-
-### 👨🏻‍💼 Executive View  
-- Essential metrics for executives, including revenue contributions and trend charts.  
+## 📜 **Problem Statement**
+AtliqQ Hardware, like many other businesses, faced significant losses in Latin America due to Excel-based analytics. To address this issue, the company's senior executives decided to invest in a data analytics project, utilizing data from the previous year to enhance performance and decision-making.
 
 ---
 
-## 📚 Learned Tech Stacks  
-
-- **SQL**  
-- **Power BI Desktop**  
-- **Excel**  
-- **DAX Language**  
-- **DAX Studio** (for report optimization)  
-- **Project Charter File**  
+## 🌟 **Project Highlights**
+### 📊 Live Dashboard:
+[View Dashboard](#)
 
 ---
 
-## 📊 Learned Power BI Techniques  
+### 📂 **Pages Overview with Visuals**
 
-- Creating calculated columns and measures using DAX.  
-- Data modeling and dynamic titles based on applied filters.  
-- Page navigation with buttons and bookmarks for visual toggling.  
-- Using KPI indicators and conditional formatting in visuals.  
-- Creating date tables using M language.  
-- Publishing reports to Power BI Services and setting up auto-refresh with a personal gateway.  
-- Collaboration and workspace management in Power BI Services.  
+#### 🏠 **Home Page**
+![Home](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Home_01.png)
 
----
+#### 💰 **Finance View**
+![Finance View](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Finance%20View_02.png)
 
-## 💼 Business-Related Terms  
+#### 📈 **Sales View**
+![Sales View](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Sales%20View_03.png)
 
-- **Gross Price**, **Net Invoice Sale**, **Gross Margin**, **Net Profit**  
-- **COGS (Cost of Goods Sold)**, **YTD (Year to Date)**, **YTG (Year to Go)**  
+#### 📢 **Marketing View**
+![Marketing View](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Marketing%20View_04.png)
 
----
+#### 🚚 **Supply Chain View**
+![Supply Chain View](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Supply%20Chain%20View_05.png)
 
-## 🛠️ Tools Used  
-
-- **Power BI** 📊  
-- **Excel** 📈  
-- **MySQL** 🗄️  
-- **DAX Studio** 🎬  
+#### 👨🏻‍💼 **Executive View**
+![Executive View](https://github.com/rohankakade1096/Business-Insights-360/blob/main/Executive%20View_06.png)
 
 ---
 
-### 📫 Contact Me  
-If you have any questions or would like to collaborate, feel free to reach out!  
+## 📚 **Learned Tech Stacks**
+- SQL
+- Power BI Desktop
+- Excel
+- DAX Language
+- DAX Studio (for optimizing the report)
 
-**GitHub Profile:** [Rohan Kakade](https://github.com/rohankakade1096)  
-**LinkedIn:** [Rohan Kakade](https://www.linkedin.com/in/rohan-kakade/)  
+---
 
+## 💡 **Power BI Techniques**
+- Creating calculated columns
+- Measures using DAX language
+- Data modeling
+- Page navigation using buttons
+- Dynamic titles and KPI indicators
+- Data validation techniques
+- Publishing reports to Power BI Service
+
+---
+
+## 🛠️ **Tools Used**
+- **Power BI**
+- **Excel**
+- **MySQL**
+- **DAX Studio**
