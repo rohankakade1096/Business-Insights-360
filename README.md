@@ -4,7 +4,7 @@
 AtliqQ Hardware faced significant losses in Latin America due to Excel-based analytics. To tackle this challenge, senior executives initiated a data analytics project using data from the previous year to enhance performance and decision-making.  
 
 ## 🌟 Live Dashboard  
-[View Dashboard](#) *(Replace `#` with the actual link once available)*  
+[View Dashboard](#) *([Replace `#` with the actual link once available](https://github.com/rohankakade1096/Business-Insights-360/blob/main/AtliQ_Business_Insights_360.pdf.pdf))*  
 
 ---
 
