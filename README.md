@@ -3,7 +3,7 @@ AtliqQ Hardware, like many other businesses, faced significant losses in Latin A
 
 ---
 
-**𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:** [Dashboard](#)
+**𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzY3MzQ4MjAtYThhNy00YWQ0LTgxYWYtMDk0NzEwYTcxYjI0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
