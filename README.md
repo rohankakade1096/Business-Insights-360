@@ -62,4 +62,4 @@ AtliQ Hardware faced significant losses in Latin America due to Excel-based anal
 🔹 DAX Studio 🎬  
 
 ## 🔗 Connect with Me:
-[LinkedIn - Rohan Kakade](https://www.linkedin.com/in/rohan-kakade/)
+[LinkedIn - Rohan Kakade](https://www.linkedin.com/feed/update/urn:li:activity:7294655128333160449/)
